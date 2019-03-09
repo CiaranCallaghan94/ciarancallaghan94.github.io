@@ -12,6 +12,7 @@ body{
 
 .head-section{
   padding: 2%;
+  padding-bottom: 30px;
   background-color: rgba(0, 0, 0, 0.6);
   filter: grayscale(0%);
 }
