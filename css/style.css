@@ -1,0 +1,77 @@
+body{
+  font-family: Courier;
+}
+
+.mb-5{
+  margin-bottom: 2rem;
+}
+
+.fa-2{
+    font-size: 2.5em;
+}
+
+.head-section{
+  padding: 30px;
+  background-color: rgba(0, 0, 0, 0.6);
+  filter: grayscale(0%);
+}
+
+.profile-thumb img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 100%;
+  width: 100%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+}
+.profile-thumb{
+  margin-left: auto;
+  margin-right: auto;
+  height: 250px;
+  width: 250px;
+  padding: 40px;
+}
+
+.info-box {
+  background-color: rgba(255, 255, 255, .6);
+  text-align: left;
+  padding: 30px;
+}
+
+.info-box ul{
+  list-style: none;
+  padding-left: 0;
+}
+.aboutme-box{
+  text-align: left;
+  border-left: 2px solid rgba(129, 207, 224, 1);
+  padding: 30px;
+  padding-top: 10px;
+}
+
+.first-block{
+   font-weight: bold;
+}
+
+.second-block{
+  text-align: center;
+}
+
+.profile-thumb a img:hover{
+  border: 4px solid rgba(129, 207, 224, 1);
+  border-radius: 50%;
+}
+
+.nav-title{
+  {
+    font-family: 'Varela Round';
+    font-size: 2rem;
+    line-height: 3rem;
+    letter-spacing: 0.8rem;
+    background: -webkit-linear-gradient(rgba(129, 207, 224, 1), rgba(255, 255, 255, 0));
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
