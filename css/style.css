@@ -68,7 +68,7 @@ body{
 .nav-title{
   {
     font-family: 'Varela Round';
-    font-size: 2rem;
+    font-size: 1rem;
     line-height: 3rem;
     letter-spacing: 0.8rem;
     background: -webkit-linear-gradient(rgba(129, 207, 224, 1), rgba(255, 255, 255, 0));
